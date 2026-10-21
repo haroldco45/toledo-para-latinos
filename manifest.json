@@ -1,0 +1,26 @@
+{
+  "name": "Toledo para Latinos — Guía de supervivencia",
+  "short_name": "Toledo Latinos",
+  "description": "App bilingüe para latinos recién llegados a Toledo (España): mapa, buses y tren a Madrid, papeles, nacionalidad, ayuda gratuita y el español de España.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#EB0A1E",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
